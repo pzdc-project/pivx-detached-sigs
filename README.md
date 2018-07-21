@@ -1,1 +1,1 @@
-# pivx-detached-sigs
+# pzdc-detached-sigs
